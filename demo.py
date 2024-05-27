@@ -1,2 +1,2 @@
-for x in range(11):
-  print("commit")
+for x in range(10):
+  print("hi kjc")
