@@ -1,2 +1,2 @@
 for x in range(11):
-  print("hi friends")
+  print("what happen")
